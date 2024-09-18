@@ -31,7 +31,7 @@ let package = Package(
     .package(url: "https://github.com/christianflanders/swift-perception", branch: "main"),
     .package(url: "https://github.com/pointfreeco/xctest-dynamic-overlay", from: "1.3.0"),
     .package(url: "https://github.com/swiftlang/swift-docc-plugin", from: "1.0.0"),
-    .package(url: "https://github.com/sjavora/swift-syntax-xcframeworks.git", from: "510.0.1),
+    .package(url: "https://github.com/sjavora/swift-syntax-xcframeworks.git", from: "510.0.1"),
   ],
   targets: [
     .target(
